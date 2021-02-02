@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PEC 3: FORMULARIOS</string>
+    <string name="nombre_completo">Nombre completo</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="telefono">Teléfono</string>
+    <string name="descripcion">Descripción</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="confirmar">Confirmar Datos</string>
+    <string name="editar">Editar Datos</string>
+
+    <string name="conf_fecha">Fecha Nacimiento: %s</string>
+    <string name="conf_telefono">Tlf: %s</string>
+    <string name="conf_email" translatable="false">Email: %s</string>
+    <string name="conf_desc">Descripción: %s</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PEC 3: FORM</string>
+    <string name="nombre_completo">Complete Name</string>
+    <string name="telefono">Phone Number</string>
+    <string name="descripcion">Description</string>
+    <string name="siguiente">Next</string>
+    <string name="confirmar">Confirm Data</string>
+    <string name="conf_fecha">Birth Date: %s</string>
+    <string name="conf_telefono">Pho.: %s</string>
+    <string name="conf_desc">Description: %s</string>
+    <string name="editar">Edit Data</string>
+</resources>
